@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="opensky-eclipseespilce",
+    name="opensky",
     version="0.0.1",
     author="Alexander Kireev",
     author_email="eclipseespilce@mail.ru",
