@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="opensky",
-    version="0.0.1",
+    version="0.0.2",
     author="Alexander Kireev",
     author_email="eclipseespilce@mail.ru",
     description="Airplanes monitoring by OpenSky api",
