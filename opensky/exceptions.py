@@ -1,0 +1,2 @@
+class OpenSkyUnreachableError(Exception):
+    pass
