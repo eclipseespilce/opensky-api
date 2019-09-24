@@ -1,7 +1,9 @@
 # Airplanes place monitoring using OpenSky api
 ---
 ### installation
+```shell
 pip install --index-url https://test.pypi.org/simple/ opensky 
+``` 
 ---
 ### using
 ```python
